@@ -18,3 +18,5 @@ Server: http://localhost:8000/
 
 ## Далее в админку 
 http://localhost:8000/admin/
+User:<b>admin</b>
+Password:<b>admin</b>
